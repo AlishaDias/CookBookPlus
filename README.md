@@ -5,10 +5,17 @@ CookBook+ is a comprehensive mobile application designed to serve as a user-frie
 #Features
 
 Recipe Database: Access a vast collection of recipes ranging from quick and easy meals to gourmet dishes.
+
 Recipe Search: Quickly find recipes by name, ingredient, cuisine, or dietary preferences.
+
 Cooking Assistant: Step-by-step instructions with images and videos to guide you through the cooking process.
+
 Shopping List: Create and manage shopping lists directly from recipes, ensuring you have all the ingredients you need.
+
 Meal Planner: Plan your meals for the week and organize recipes accordingly.
+
 Kitchen Timer: Set timers for different cooking tasks to ensure perfect results every time.
+
 Cooking Tips and Tricks: Explore useful tips and tricks to enhance your cooking skills.
+
 User Profile: Customize your experience by saving favorite recipes, dietary preferences, and cooking notes.
